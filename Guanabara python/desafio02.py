@@ -1,0 +1,5 @@
+print("=====Desafio 2 ========")
+dia = input("Dia: ")
+mes= input("mes: ")
+ano = input("ano: ")
+print("Voce nasceu no dia: ",dia, mes, ano, "Correto")
